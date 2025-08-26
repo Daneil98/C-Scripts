@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\samsung\source\repos\main.cpp(32,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\samsung\source\repos\main.cpp(41,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\samsung\source\repos\main.cpp(42,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Quadratic Equation.vcxproj -> C:\Users\samsung\Desktop\VS\C++ projects\Quadratic Equation\x64\Debug\Quadratic Equation.exe

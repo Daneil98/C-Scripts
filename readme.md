@@ -1,10 +1,10 @@
 ## C++ Development Repository
 This repository contains a diverse collection of C++ projects, ranging from foundational programming concepts and mathematical simulations to advanced multithreaded systems and web services.
 
-## 📂 Directory Structure
+## Directory Structure
 
 
-### 🛠️ Core Projects & Modules
+### Core Projects & Modules
 
 Stock Transaction Engine:  A high-performance engine designed for processing and managing stock market transactions.
 
@@ -14,10 +14,10 @@ Multithreading_scripts:  Advanced implementations focusing on concurrent program
 
 Essential operations:  A module dedicated to core algorithms and fundamental system operations.
 
-## 📄 Script Index
+## Script Index
 
 
-### 🎮 Simulations & Logic
+### Simulations & Logic
 
 monty_hall.cpp: A simulation of the Monty Hall problem using arrays and random number generation to verify probability theory.
 
@@ -28,7 +28,7 @@ leap_year.cpp: Logic to determine if a given year is a leap year.
 zellers_congruence.cpp: An implementation of Zeller's algorithm to calculate the day of the week for any date.
 
 
-### 🧮 Mathematics & Finance
+### Mathematics & Finance
 math_is_fun.cpp: Demonstrations of various mathematical operations and functions.
 
 basic_tax.cpp: A script for calculating basic tax obligations.
@@ -38,7 +38,7 @@ roi.cpp: Returns on Investment (ROI) calculator.
 temp_converter.cpp: A utility to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 
-### 🏗️ Data Structures & Fundamentals
+### Data Structures & Fundamentals
 array_sort.cpp: Implementation of sorting algorithms for array structures.
 
 ToDoList.cpp: A functional console application for managing personal tasks.
@@ -52,7 +52,7 @@ typedef_using.cpp: Demonstrations of type aliasing using typedef and using.
 ex_namespace.cpp: Examples of namespace organization and scope management.
 
 
-### 🧪 Testing & Utilities
+### Testing & Utilities
 exception_test.cpp: A suite for testing C++ exception handling and error robustness.
 
 Hello world.cpp: The classic entry-level program.
@@ -60,7 +60,7 @@ Hello world.cpp: The classic entry-level program.
 copyer.py / test.py: Python-based utility scripts for file management and testing.
 
 
-## 🚀 Getting Started
+## Getting Started
 Prerequisites
 A C++ compiler supporting C++11 or higher (GCC, Clang, or MSVC).
 
@@ -80,5 +80,5 @@ Run the generated executable:
     ./output_name
 ```
 
-### ⚙️ Repository Maintenance
+### Repository Maintenance
 .gitignore: Configured to ignore binary .exe files and build artifacts to keep the repository clean.

@@ -6,13 +6,13 @@ This repository contains a diverse collection of C++ projects, ranging from foun
 
 ### 🛠️ Core Projects & Modules
 
-*** Stock Transaction Engine: *** A high-performance engine designed for processing and managing stock market transactions.
+Stock Transaction Engine:  A high-performance engine designed for processing and managing stock market transactions.
 
-*** Web Server: *** A C++ implementation of a functional web server for handling network requests.
+Web Server:  A C++ implementation of a functional web server for handling network requests.
 
-*** Multithreading_scripts: *** Advanced implementations focusing on concurrent programming and thread management.
+Multithreading_scripts:  Advanced implementations focusing on concurrent programming and thread management.
 
-*** essential operations: *** A module dedicated to core algorithms and fundamental system operations.
+Essential operations:  A module dedicated to core algorithms and fundamental system operations.
 
 ## 📄 Script Index
 

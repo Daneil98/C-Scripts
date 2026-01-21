@@ -69,14 +69,16 @@ Python 3.x (for utility scripts).
 ### Compilation
 To compile a specific script, use a command similar to:
 
-Bash
-g++ -o output_name script_name.cpp
-Execution
+``` Bash
+    g++ -o output_name script_name.cpp
+```
+
+### Execution
 Run the generated executable:
 
-Bash
-./output_name
-
+``` Bash
+    ./output_name
+```
 
 ### ⚙️ Repository Maintenance
 .gitignore: Configured to ignore binary .exe files and build artifacts to keep the repository clean.

@@ -12,9 +12,9 @@ timed_mutex m;
 
 
 void increment(int i) {
-    //if(m.try_lock_for(chrono::seconds(2))) {
+    //if(m.try_lock_for(chrono::seconds(2))) {      //locks the mutex if it can be locked for 2 seconds
     auto now = chrono::steady_clock::now();
-    if (m.try_lock_until(now + chrono::seconds(2))) {   
+    if (m.try_lock_until(now + chrono::seconds(2))) {   //locks the mutex if it can be locked until specified time point
         amount++;
         this_thread::sleep_for(chrono::seconds(1));
         cout << "Thread " << i << " acquired the lock." << endl;

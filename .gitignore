@@ -5,4 +5,10 @@ venv/
 *.log
 *.exe
 *.py
-.vs
+.vs/
+*.ipch
+*.obj
+*.pch
+*.suo
+*.user
+build/

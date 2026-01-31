@@ -66,7 +66,7 @@ copyer.py / test.py: Python-based utility scripts for file management and testin
 Prerequisites
 A C++ compiler supporting C++11 or higher (GCC, Clang, or MSVC).
 
-Python 3.x (for utility scripts).
+Python 3.9 (for utility scripts).
 
 ### Compilation
 To compile a specific script, use a command similar to:
@@ -83,4 +83,5 @@ Run the generated executable:
 ```
 
 ### Repository Maintenance
+
 .gitignore: Configured to ignore binary .exe files and build artifacts to keep the repository clean.

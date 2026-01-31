@@ -8,6 +8,8 @@ This repository contains a diverse collection of C++ projects, ranging from foun
 
 Stock Transaction Engine:  A high-performance engine designed for processing and managing stock market transactions.
 
+Object Tracking: A computer vision based project that tracks the movement of an object (red but changeable) using Kalman Filter. A mouse tracking version also exists in the project.
+
 Web Server:  A C++ implementation of a functional web server for handling network requests.
 
 Multithreading_scripts:  Advanced implementations focusing on concurrent programming and thread management.

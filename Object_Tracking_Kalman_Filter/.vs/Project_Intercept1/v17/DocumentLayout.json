@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43CF64-7B08-4678-AF5A-4ED605962E67}|Project_Intercept1.vcxproj|C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A43CF64-7B08-4678-AF5A-4ED605962E67}|Project_Intercept1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43CF64-7B08-4678-AF5A-4ED605962E67}|Project_Intercept1.vcxproj|C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\Kalman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A43CF64-7B08-4678-AF5A-4ED605962E67}|Project_Intercept1.vcxproj|solutionrelative:Kalman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A43CF64-7B08-4678-AF5A-4ED605962E67}|Project_Intercept1.vcxproj|C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\Kalman.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A43CF64-7B08-4678-AF5A-4ED605962E67}|Project_Intercept1.vcxproj|solutionrelative:Kalman.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kalman.cpp",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\Kalman.cpp",
+              "RelativeDocumentMoniker": "Kalman.cpp",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\Kalman.cpp",
+              "RelativeToolTip": "Kalman.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T05:07:14.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kalman.hpp",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\Kalman.hpp",
+              "RelativeDocumentMoniker": "Kalman.hpp",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\Kalman.hpp",
+              "RelativeToolTip": "Kalman.hpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T04:49:43.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\samsung\\Desktop\\VS\\Project_Intercept1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T20:03:19.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
